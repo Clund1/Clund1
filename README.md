@@ -6,18 +6,19 @@
 - Email: Clundquist1@gmail.com
 - Location: Boston, MA
 - LinkedIn: [linkedin.com/in/chrisharmonlundquist](https://www.linkedin.com/in/chrisharmonlundquist)
-- GitHub: [github.com/Clund1](https://github.com/Clund1)
+
 
 ## Summary
 As a software engineer with a background in design, my aspiration is to develop inclusive programs and experiences that ensure no one is left behind. My unique blend of skills allows me to bring a creative perspective to software development, fostering accessibility and user engagement.
+
 
 ## Skills
 - Languages: JavaScript, HTML, CSS, Python, React
 - Databases: MongoDB
 - Programs: VSCode, Adobe Photoshop
 
-## Projects
 
+## Projects
 ### VG Backlogger (Game Backlog App | Node, Express, MongoDB ) - January 2024
 - Created a Full-Stack Video Game Backlog CRUD Application Utilizing RAWGio API
 - Allows users to create a backlog catalog of games and track rudimentary progress
